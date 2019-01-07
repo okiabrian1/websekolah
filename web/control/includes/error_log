@@ -1,0 +1,24 @@
+[27-Nov-2018 14:07:01 Asia/Jakarta] PHP Warning:  fopen(smkn1bakam.sch.id/js/../../js/combine/header.js): failed to open stream: No such file or directory in /home/smkn1bakam/public_html/control/includes/merger.php on line 66
+[27-Nov-2018 14:07:01 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/smkn1bakam/public_html/control/includes/merger.php on line 67
+[27-Nov-2018 14:07:06 Asia/Jakarta] PHP Warning:  fopen(smkn1bakam.sch.id/css/../../css/combine/header.css): failed to open stream: No such file or directory in /home/smkn1bakam/public_html/control/includes/merger.php on line 33
+[27-Nov-2018 14:07:06 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/smkn1bakam/public_html/control/includes/merger.php on line 34
+[28-Dec-2018 10:48:34 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'userlogin' in 'where clause' in /home/smkn1bakam/public_html/control/includes/functions.php:164
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/functions.php(164): mysqli->prepare('SELECT id, user...')
+#1 /home/smkn1bakam/public_html/control/includes/process_login.php(43): login('adwdaww', 'c6110151c242c08...', Object(mysqli), Array)
+#2 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 164
+[28-Dec-2018 10:59:04 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 200
+[28-Dec-2018 11:05:20 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/smkn1bakam/public_html/control/includes/functions.php on line 198
+[28-Dec-2018 11:11:36 Asia/Jakarta] PHP Warning:  Use of undefined constant a1 - assumed 'a1' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 117
+[28-Dec-2018 11:11:36 Asia/Jakarta] PHP Warning:  Use of undefined constant a1 - assumed 'a1' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 118
+[28-Dec-2018 11:11:36 Asia/Jakarta] PHP Warning:  Use of undefined constant a1 - assumed 'a1' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 122
+[28-Dec-2018 11:11:36 Asia/Jakarta] PHP Warning:  Use of undefined constant a1 - assumed 'a1' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 126
+[28-Dec-2018 11:11:36 Asia/Jakarta] PHP Warning:  Use of undefined constant a2 - assumed 'a2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 135
+[28-Dec-2018 11:11:36 Asia/Jakarta] PHP Warning:  Use of undefined constant a2 - assumed 'a2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 149
+[28-Dec-2018 11:11:36 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 204
+[28-Dec-2018 11:21:43 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/smkn1bakam/public_html/control/includes/functions.php on line 212
+[28-Dec-2018 11:26:44 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/smkn1bakam/public_html/control/includes/functions.php on line 212
+[28-Dec-2018 14:13:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 126
+[28-Dec-2018 14:13:56 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 126
+[29-Dec-2018 18:27:16 Asia/Jakarta] PHP Warning:  mail() has been disabled for security reasons in /home/smkn1bakam/public_html/control/includes/functions.php on line 219

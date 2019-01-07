@@ -1,0 +1,54 @@
+.datepicker{
+	
+}
+.datepickerdropdown {
+ background-color: #d1d1d1;
+ border:0px solid #888;
+  border-radius:5px;
+  padding:10px;
+  position:absolute;
+  text-align:center;
+}
+.datepickerdropdown table {
+  border-collapse:collapse;
+  margin:auto;
+}
+.datepickerdropdown input {
+  font-family:monospace;
+  border:0px solid #888;
+  border-radius:3px;
+  margin:1px;
+  padding:2px 5px;
+  text-align:center;
+   color: white;
+}
+.datepickerdropdown table input[type=button] {
+  width:2em;
+}
+.datepickerdropdown input[type=button] {
+	background-color:#403F3F;
+}
+.datepickerdropdown input[type=button]:hover {
+ background-color:#4286f4;
+ }
+.datepickerdropdown input[type=button]:active {
+  background-color:#4286f4;
+ padding:2px 4px 2px 6px;
+}      
+.datepickerdropdown input.selected {
+  background-color:#4286f4;
+ }
+.datepickerdropdown input[type=text] {
+  background:#fff;
+  color:#000;
+}
+.datepickerdropdown input.today {
+  border:1px solid red;
+}
+.datepickerdropdown input.othermonth {
+  color:#aaa;
+  border:1px solid #bbb;
+}
+.datepickershow img {
+  border:0;
+}

@@ -1,0 +1,141 @@
+@media only screen and (min-width:641px){
+.card {
+
+	 z-index: 1; /* Stay on top */
+	overflow-x: hidden; /* Disable horizontal scroll */
+    background-color: #FFFFFF;
+	 transition: 0.1s; /* 0.5 second transition effect to slide in the sidenav */
+	 margin-bottom:5px;
+}
+.cardview{
+overflow-y: hidden; /* Disable vertical scroll */
+background-color:#CBCBCB;
+width:100%;
+height:100%;
+}
+.m-pointer{
+cursor: pointer;
+}
+.card1{
+background-color:#CBCBCB;
+margin-left: 1vw;
+}
+.card1:hover {
+	margin-left: -1vw;
+	background-color:#61C6FF;
+	}
+.card2{
+background-color:#CBCBCB;
+margin-left: 1vw;
+}
+.card2:hover {
+	margin-left: -1vw;
+	background-color:#61C6FF;
+	}
+.card3{
+background-color:#CBCBCB;
+margin-left: 1vw;
+}
+.card3:hover {
+	margin-left: -1vw;
+	background-color:#61C6FF;
+	}
+.slideshowHeight{
+	
+height: 30vw;
+}
+.card .card-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.card.horizontal .card-image {
+  max-width: 30%;
+}
+
+.cardview.card .card-image {
+  max-width: 100%;
+  z-index:1;
+}
+
+.cardview.card .card-content {
+ 
+  z-index:2;
+  position:relative;
+  background-color:rgba(0.5, 0.5, 0.5, 0.5);
+  color:#61C6FF
+
+}
+.slide1show .card1{
+	height:100%;
+}
+.slide1show .card2{
+	height:100%;
+}
+.slide1show .card3{
+	height:100%;
+}
+
+.slideform {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+} 
+
+.slideview {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    width: 60%;
+    height: 100%;
+
+}
+.slidemenu{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40%;
+    height: 100%;
+}	
+.slide1show .card-content .card-title {
+	line-height:1.5vw;
+  font-size: 1.5vw;
+  font-weight: 600;
+
+}
+.slide1show .card-content .card-title i {
+line-height:1.5vw;
+}
+.geser {
+margin-left:45%;
+margin-top:10%;
+transition: all 0.4s ease-in;
+}
+
+.geserA-btn svg:hover{
+fill: #90caf9;
+}
+
+.button {
+ height:20%;
+
+  font-size: 10px;
+  transition: all 0.4s ease-in;
+}
+
+.button:focus .card1  {
+		margin-left: -1vw;
+background-color:#61C6FF;
+
+}
+.button:focus .card2  {
+		margin-left: -1vw;
+background-color:#61C6FF;
+
+}
+.button:focus .card3  {
+		margin-left: -1vw;
+background-color:#61C6FF;
+
+}
+}

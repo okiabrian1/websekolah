@@ -1,0 +1,5 @@
+menambahkan pengaman kunci php,
+htacces pada folder,
+mengubah semua file upload.
+mendirect semua langkah terlarang.
+menambah chapca pada login.

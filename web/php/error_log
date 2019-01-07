@@ -1,0 +1,621 @@
+[22-Nov-2018 19:00:40 Asia/Jakarta] PHP Warning:  include_once(idecrip.php): failed to open stream: No such file or directory in /home/smkn1bakam/public_html/control/includes/functions.php on line 4
+[22-Nov-2018 19:00:40 Asia/Jakarta] PHP Warning:  include_once(): Failed opening 'idecrip.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/smkn1bakam/public_html/control/includes/functions.php on line 4
+[22-Nov-2018 19:00:40 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 3
+[22-Nov-2018 19:00:40 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/smkn1bakam/public_html/control/includes/functions.php on line 499
+[22-Nov-2018 19:01:29 Asia/Jakarta] PHP Warning:  include_once(idecrip.php): failed to open stream: No such file or directory in /home/smkn1bakam/public_html/control/includes/functions.php on line 4
+[22-Nov-2018 19:01:29 Asia/Jakarta] PHP Warning:  include_once(): Failed opening 'idecrip.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/smkn1bakam/public_html/control/includes/functions.php on line 4
+[22-Nov-2018 19:01:30 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 3
+[22-Nov-2018 19:01:30 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/smkn1bakam/public_html/control/includes/functions.php on line 499
+[22-Nov-2018 19:04:51 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 3
+[22-Nov-2018 19:04:51 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/smkn1bakam/public_html/control/includes/functions.php on line 499
+[22-Nov-2018 19:05:14 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'smkn1bakam_q3rewrwr324r3wrwrw3'@'localhost' to database 'smkn1bakam_web' in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 3
+[22-Nov-2018 19:05:14 Asia/Jakarta] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/smkn1bakam/public_html/control/includes/functions.php on line 499
+[22-Nov-2018 19:08:13 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 631
+[22-Nov-2018 19:08:13 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 826
+[22-Nov-2018 19:09:32 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 631
+[22-Nov-2018 19:09:32 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 826
+[22-Nov-2018 19:09:53 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 631
+[22-Nov-2018 19:09:53 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 826
+[22-Nov-2018 19:24:50 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 631
+[22-Nov-2018 19:24:50 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 826
+[22-Nov-2018 19:26:57 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 634
+[22-Nov-2018 19:26:57 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 829
+[22-Nov-2018 19:36:55 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 631
+[22-Nov-2018 19:36:55 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 826
+[22-Nov-2018 19:47:40 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 632
+[22-Nov-2018 19:47:40 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 827
+[22-Nov-2018 19:47:44 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 632
+[22-Nov-2018 19:47:44 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 827
+[22-Nov-2018 19:49:08 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 636
+[22-Nov-2018 19:49:08 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 831
+[22-Nov-2018 19:51:53 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 636
+[22-Nov-2018 19:51:53 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 833
+[22-Nov-2018 19:53:03 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 636
+[22-Nov-2018 19:53:03 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 833
+[22-Nov-2018 19:57:33 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 636
+[22-Nov-2018 19:57:33 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/project_smk/image/background1.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 833
+[23-Nov-2018 20:30:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkn1bakam/public_html/control/includes/functions.php on line 262
+[26-Nov-2018 02:59:38 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 02:59:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 02:59:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 02:59:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 02:59:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 02:59:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 02:59:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:12:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/smkn1bakam/public_html/control/includes/db_connect.php:3
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/list_news.inc.php(2): include_once()
+#1 /home/smkn1bakam/public_html/php/getData.php(3): include_once('/home/smkn1baka...')
+#2 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 3
+[26-Nov-2018 03:13:23 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:29 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:29 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:44 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:44 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:57 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:58 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:13:59 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:14:31 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:14:40 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:25:01 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:25:02 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:25:02 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:25:02 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:25:06 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/project_smk/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:38:42 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:38:43 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:38:45 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:38:46 Asia/Jakarta] PHP Warning:  getimagesize(http://127.0.0.1/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1080
+[26-Nov-2018 03:45:52 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:45:56 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:45:59 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:00 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:00 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:01 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:01 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:01 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:01 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:02 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:20 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 03:46:26 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:17:04 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:17:07 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:17:19 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:17:19 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:17:37 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:34 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:42 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:43 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:43 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:43 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:43 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:54 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:25:59 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:26:04 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:26:09 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:26:10 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:26:11 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:27:18 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[26-Nov-2018 04:27:50 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0012.png'): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 873
+[27-Nov-2018 01:10:30 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:30 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:30 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:30 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:30 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:30 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:41 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:41 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:41 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:50 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:50 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:50 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:50 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:50 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:10:50 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:08 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:08 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:08 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:08 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:08 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:08 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:15 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:15 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:15 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:15 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:15 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:11:15 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:15:10 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:15:10 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:15:10 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:15:10 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:15:10 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 01:15:10 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:43:42 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:43:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:43:42 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:43:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:43:42 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:43:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:44:13 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:44:13 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:44:13 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:44:13 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:44:13 Asia/Jakarta] PHP Warning:  Use of undefined constant lebar2 - assumed 'lebar2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[27-Nov-2018 02:44:13 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 701
+[01-Dec-2018 22:53:47 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:53:48 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:53:48 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:53:59 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:00 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:00 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:02 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:02 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:02 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:07 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:08 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 22:54:08 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:38:19 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:38:20 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:38:20 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:51:18 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:51:18 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:51:19 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:51:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:51:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[01-Dec-2018 23:51:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:27:26 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:27:27 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:27:27 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:55:11 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:55:12 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:55:12 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:59:33 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:59:33 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:59:33 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:59:37 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:59:37 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 00:59:37 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[02-Dec-2018 02:25:19 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:21 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:22 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:22 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:22 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:23 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:23 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:23 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:30 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:30 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:31 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:32 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:33 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:33 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:33 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:34 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:35 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:36 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:36 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:36 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:44 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:48 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:48 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:48 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:49 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:50 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:25:51 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:18 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:18 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:18 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:49 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:49 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:49 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:50 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:50 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:50 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:50 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:50 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:50 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:53 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:53 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:53 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:58 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:58 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:58 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:59 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:59 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:26:59 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/class diagram.jpeg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:38 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:39 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:41 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:41 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:41 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:41 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:41 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:42 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:43 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:43 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:43 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:43 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:43 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:43 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:43 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:45 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:45 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:45 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:47 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:47 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:47 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:47 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:47 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:47 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:49 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:49 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:39:49 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:40:42 Asia/Jakarta] PHP Warning:  getimagesize(): SSL: Connection reset by peer in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:40:42 Asia/Jakarta] PHP Warning:  getimagesize(): Failed to enable crypto in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[02-Dec-2018 02:40:42 Asia/Jakarta] PHP Warning:  getimagesize(https://smkn1bakam.sch.id/image/test 1.jpg): failed to open stream: operation failed in /home/smkn1bakam/public_html/control/includes/functions.php on line 929
+[03-Dec-2018 03:32:51 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[03-Dec-2018 03:32:53 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[03-Dec-2018 03:32:53 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[03-Dec-2018 12:36:51 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[03-Dec-2018 12:36:52 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[03-Dec-2018 12:36:53 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:23:37 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:23:40 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:23:41 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:56:53 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:56:53 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:56:53 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:56:55 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:58:22 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:58:30 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:58:30 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:58:56 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:58:56 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:58:57 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[06-Dec-2018 10:58:57 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:58:59 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:58:59 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:58:59 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:59:02 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:59:12 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:59:12 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:59:12 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:59:12 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[13-Dec-2018 23:59:12 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[15-Dec-2018 23:43:26 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[15-Dec-2018 23:43:26 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[15-Dec-2018 23:43:31 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[15-Dec-2018 23:43:41 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1136
+[27-Dec-2018 04:59:44 Asia/Jakarta] PHP Warning:  Use of undefined constant da - assumed 'da' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 4
+[27-Dec-2018 04:59:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/smkn1bakam/public_html/control/includes/functions.php:688
+Stack trace:
+#0 /home/smkn1bakam/public_html/php/getData.php(12): getListHeaderSlide(NULL, '1519')
+#1 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 688
+[27-Dec-2018 04:59:47 Asia/Jakarta] PHP Warning:  Use of undefined constant da - assumed 'da' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 4
+[27-Dec-2018 04:59:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/smkn1bakam/public_html/control/includes/functions.php:541
+Stack trace:
+#0 /home/smkn1bakam/public_html/php/getData.php(9): getListNewsSlide(NULL, '0', 3, '1519')
+#1 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 541
+[27-Dec-2018 09:05:39 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:05:40 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:05:41 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:05:46 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:05:47 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:05:47 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:05:47 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:05:49 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:06:32 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:06:33 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:06:33 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:06:36 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:06:36 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:06:37 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:07:03 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188
+[27-Dec-2018 09:08:26 Asia/Jakarta] PHP Warning:  getimagesize(http://smkn1bakam.sch.id/image/0007.png): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/smkn1bakam/public_html/control/includes/functions.php on line 1188

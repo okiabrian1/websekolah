@@ -1,0 +1,8 @@
+table tr:nth-child(odd){background:#9F9F9F}
+table tr:nth-child(even){background:#8B8B8B}
+table tr:nth-of-type(1) {background: #D4D4D4}
+table .isikolom:hover  {background-color: #F2F2F2}
+table{text-align: center;border-collapse: collapse;}
+td:hover{
+  background-color: #ffa;
+}

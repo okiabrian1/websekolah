@@ -1,0 +1,25 @@
+#usernamed {
+	position:absolute;
+	left:265px;
+	top:340px;
+}
+#emaild {
+	position:absolute;
+	left:302px;
+	top:370px;
+}
+#passwordd {
+	position:absolute;
+	left:270px;
+	top:400px;
+}
+#cfd {
+	position:absolute;
+	left:200px;
+	top:430px;
+}
+#register {
+	position:absolute;
+	left:440px;
+	top:460px;
+}

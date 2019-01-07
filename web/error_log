@@ -1,0 +1,7 @@
+[01-Dec-2018 03:50:42 Asia/Jakarta] PHP Warning:  include_once(./control/includes/news_show.inc.php): failed to open stream: No such file or directory in /home/smkn1bakam/public_html/artikel.php on line 3
+[01-Dec-2018 03:50:42 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './control/includes/news_show.inc.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/smkn1bakam/public_html/artikel.php on line 3
+[01-Dec-2018 03:50:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/smkn1bakam/public_html/control/includes/functions.php:775
+Stack trace:
+#0 /home/smkn1bakam/public_html/artikel.php(6): getNewsImprove('84', NULL)
+#1 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 775

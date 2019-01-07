@@ -1,0 +1,165 @@
+[27-Dec-2018 09:38:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 09:38:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 09:39:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 09:47:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 09:47:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 09:48:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 09:50:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 10:04:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 10:04:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 10:04:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 10:04:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[27-Dec-2018 10:04:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[28-Dec-2018 00:42:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function lihatlevel() in /home/smkn1bakam/public_html/control/akun.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smkn1bakam/public_html/control/akun.php on line 3
+[28-Dec-2018 00:43:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function lihatlevel() in /home/smkn1bakam/public_html/control/akun.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smkn1bakam/public_html/control/akun.php on line 3
+[28-Dec-2018 00:44:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function lihatlevel() in /home/smkn1bakam/public_html/control/akun.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smkn1bakam/public_html/control/akun.php on line 3
+[28-Dec-2018 00:45:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function lihatlevel() in /home/smkn1bakam/public_html/control/akun.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smkn1bakam/public_html/control/akun.php on line 3
+[28-Dec-2018 00:45:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function lihatlevel() in /home/smkn1bakam/public_html/control/akun.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/smkn1bakam/public_html/control/akun.php on line 3
+[28-Dec-2018 00:59:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/smkn1bakam/public_html/control/includes/register.inc.php on line 151
+[28-Dec-2018 01:00:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/smkn1bakam/public_html/control/includes/register.inc.php on line 148
+[28-Dec-2018 01:03:26 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'log' in 'field list' in /home/smkn1bakam/public_html/control/includes/register.inc.php:129
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/register.inc.php(129): mysqli->prepare('INSERT INTO mem...')
+#1 /home/smkn1bakam/public_html/control/atur_akun/register.php(7): include_once('/home/smkn1baka...')
+#2 /home/smkn1bakam/public_html/control/akun.php(4): include('/home/smkn1baka...')
+#3 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/register.inc.php on line 129
+[28-Dec-2018 02:11:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS), expecting ')' in /home/smkn1bakam/public_html/control/includes/functions.php on line 1146
+[28-Dec-2018 02:11:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1147
+[28-Dec-2018 02:11:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1147
+[28-Dec-2018 02:12:17 Asia/Jakarta] PHP Warning:  Use of undefined constant a2 - assumed 'a2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/index.php on line 46
+[28-Dec-2018 02:12:17 Asia/Jakarta] PHP Warning:  Use of undefined constant a2 - assumed 'a2' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/index.php on line 46
+[28-Dec-2018 02:12:17 Asia/Jakarta] PHP Warning:  Use of undefined constant a1 - assumed 'a1' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/index.php on line 46
+[28-Dec-2018 10:38:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/smkn1bakam/public_html/control/includes/functions.php on line 119
+[29-Dec-2018 18:07:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[29-Dec-2018 18:07:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[29-Dec-2018 18:07:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[29-Dec-2018 18:09:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smkn1bakam/public_html/control/includes/list_akun.inc.php on line 108
+[29-Dec-2018 18:11:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:11:38 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:12:48 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:12:48 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:14:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:14:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:15:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:15:00 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:16:29 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:16:29 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:23:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[29-Dec-2018 18:23:26 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/smkn1bakam/public_html/control/includes/functions.php on line 388
+[30-Dec-2018 02:31:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:31:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:31:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:32:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:32:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:33:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:33:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:33:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:39:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:39:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:39:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:39:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 02:39:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 03:16:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/smkn1bakam/public_html/control/manage_news/list_news.php on line 81
+[30-Dec-2018 06:47:59 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`smkn1bakam_web`.`data_unggah`, CONSTRAINT `data_unggah_ibfk_1` FOREIGN KEY (`id_members`) REFERENCES `members` (`id`)) in /home/smkn1bakam/public_html/control/includes/hps.php:49
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/hps.php(49): mysqli_stmt->execute()
+#1 /home/smkn1bakam/public_html/control/hps.php(5): include('/home/smkn1baka...')
+#2 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/hps.php on line 49
+[01-Jan-2019 10:59:48 Asia/Jakarta] PHP Warning:  Use of undefined constant da - assumed 'da' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/db_connect.php on line 4
+[01-Jan-2019 10:59:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/smkn1bakam/public_html/control/includes/functions.php:513
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/protected_page.php(15): login_check(NULL)
+#1 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 513
+[01-Jan-2019 15:21:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method DOMDocument::query() in /home/smkn1bakam/public_html/control/includes/functions.php:1404
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/news.inc.php(48): splitHTMLCSS(NULL, Object(mysqli), '\r\n\t\t &amp;lt;di...')
+#1 /home/smkn1bakam/public_html/control/manage_news/newseditor.php(8): include_once('/home/smkn1baka...')
+#2 /home/smkn1bakam/public_html/control/news.php(4): include('/home/smkn1baka...')
+#3 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 1404
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 15:28:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function appendChild() on null in /home/smkn1bakam/public_html/control/includes/functions.php:1419
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/news.inc.php(48): splitHTMLCSS(NULL, Object(mysqli), '\r\n\t\t &amp;lt;di...')
+#1 /home/smkn1bakam/public_html/control/manage_news/newseditor.php(8): include_once('/home/smkn1baka...')
+#2 /home/smkn1bakam/public_html/control/news.php(4): include('/home/smkn1baka...')
+#3 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 1419
+[01-Jan-2019 15:28:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function appendChild() on null in /home/smkn1bakam/public_html/control/includes/functions.php:1419
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/news.inc.php(48): splitHTMLCSS(NULL, Object(mysqli), '\r\n\t\t &amp;lt;di...')
+#1 /home/smkn1bakam/public_html/control/manage_news/newseditor.php(8): include_once('/home/smkn1baka...')
+#2 /home/smkn1bakam/public_html/control/news.php(4): include('/home/smkn1baka...')
+#3 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 1419
+[01-Jan-2019 15:31:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/smkn1bakam/public_html/control/includes/functions.php on line 1421
+[01-Jan-2019 15:32:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function getElementsByTagName() on null in /home/smkn1bakam/public_html/control/includes/functions.php:1420
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/news.inc.php(48): splitHTMLCSS(NULL, Object(mysqli), '\r\n\t\t &amp;lt;di...')
+#1 /home/smkn1bakam/public_html/control/manage_news/newseditor.php(8): include_once('/home/smkn1baka...')
+#2 /home/smkn1bakam/public_html/control/news.php(4): include('/home/smkn1baka...')
+#3 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 1420
+[01-Jan-2019 15:36:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function appendChild() on null in /home/smkn1bakam/public_html/control/includes/functions.php:1421
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/news.inc.php(48): splitHTMLCSS(NULL, Object(mysqli), '\r\n\t\t &amp;lt;di...')
+#1 /home/smkn1bakam/public_html/control/manage_news/newseditor.php(8): include_once('/home/smkn1baka...')
+#2 /home/smkn1bakam/public_html/control/news.php(4): include('/home/smkn1baka...')
+#3 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 1421
+[01-Jan-2019 16:04:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function appendChild() on null in /home/smkn1bakam/public_html/control/includes/functions.php:1421
+Stack trace:
+#0 /home/smkn1bakam/public_html/control/includes/news.inc.php(48): splitHTMLCSS(NULL, Object(mysqli), '\r\n\t\t &amp;lt;di...')
+#1 /home/smkn1bakam/public_html/control/manage_news/newseditor.php(8): include_once('/home/smkn1baka...')
+#2 /home/smkn1bakam/public_html/control/news.php(4): include('/home/smkn1baka...')
+#3 {main}
+  thrown in /home/smkn1bakam/public_html/control/includes/functions.php on line 1421
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  Use of undefined constant ids - assumed 'ids' (this will throw an Error in a future version of PHP) in /home/smkn1bakam/public_html/control/includes/functions.php on line 1415
+[01-Jan-2019 16:05:10 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/smkn1bakam/public_html/control/includes/functions.php on line 1421
+[01-Jan-2019 16:05:34 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/smkn1bakam/public_html/control/includes/functions.php on line 1421
+[01-Jan-2019 16:06:22 Asia/Jakarta] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/smkn1bakam/public_html/control/includes/functions.php on line 1421
+[01-Jan-2019 16:06:39 Asia/Jakarta] PHP Recoverable fatal error:  Object of class DOMDocument could not be converted to string in /home/smkn1bakam/public_html/control/includes/functions.php on line 1424
+[01-Jan-2019 16:09:03 Asia/Jakarta] PHP Recoverable fatal error:  Object of class DOMDocument could not be converted to string in /home/smkn1bakam/public_html/control/includes/functions.php on line 1424
+[01-Jan-2019 16:40:22 Asia/Jakarta] PHP Warning:  DOMDocument::saveHTML() expects parameter 1 to be DOMNode, object given in /home/smkn1bakam/public_html/control/includes/functions.php on line 1419
+[01-Jan-2019 16:45:28 Asia/Jakarta] PHP Recoverable fatal error:  Object of class DOMElement could not be converted to string in /home/smkn1bakam/public_html/control/includes/functions.php on line 1420
+[01-Jan-2019 16:45:36 Asia/Jakarta] PHP Recoverable fatal error:  Object of class DOMElement could not be converted to string in /home/smkn1bakam/public_html/control/includes/functions.php on line 1420
